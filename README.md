@@ -1,4 +1,5 @@
 **Python for Data Science: Assignment 1**
+
 This repository contains the code for my Python for Data Science Assignment 1. This assignment includes 18 exercises on basic Python basic, focusing on the following topics:
 1. Exercises 1-3: Syntax and Variables
 2. Exercises 4-5: Lists and Dictionaries
